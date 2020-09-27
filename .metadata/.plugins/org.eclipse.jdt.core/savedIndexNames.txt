@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/.metadata/.plugins/org.eclipse.jdt.core
