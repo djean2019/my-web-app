@@ -3461,3 +3461,4 @@ java.io.IOException: Invalid argument
 2020-09-28 18:41:23,212 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/main/resources
 2020-09-28 18:41:23,215 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-28 18:41:23,215 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/test/resources
+2020-09-28 18:47:47,589 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
