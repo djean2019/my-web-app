@@ -17,13 +17,13 @@ import com.javadev.darphewebapp.repository.LikeRepository;
 
 @Controller
 @RequestMapping("/darphe")
-public class CommentController {
+public class AppController {
  
 	private CommentRepository cRepository;
 	private LikeRepository lRepository;
 	 
 	@Autowired
-	public CommentController(CommentRepository cRepository, LikeRepository lRepository) {
+	public AppController(CommentRepository cRepository, LikeRepository lRepository) {
 		this.cRepository = cRepository;
 		this.lRepository = lRepository;
 	}
