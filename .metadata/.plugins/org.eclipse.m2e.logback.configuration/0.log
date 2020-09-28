@@ -3372,3 +3372,92 @@ java.io.IOException: Invalid argument
 2020-09-28 16:20:23,785 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-09-28 16:20:23,786 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-28 16:20:23,786 [Worker-410: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/workspace-sts-3.9.6.RELEASE/SWE/eregistrar/src/test/resources
+2020-09-28 18:10:13,848 [Worker-109: Launching darphewebapp - DarphewebappApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:10:13,855 [Worker-109: Launching darphewebapp - DarphewebappApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:10:13,863 [Worker-109: Launching darphewebapp - DarphewebappApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:10:13,868 [Worker-109: Launching darphewebapp - DarphewebappApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:10:13,868 [Worker-109: Launching darphewebapp - DarphewebappApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphewebapp/src/test/resources
+2020-09-28 18:10:35,265 [Worker-436: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:10:35,267 [Worker-436: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:10:35,274 [Worker-436: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:10:35,281 [Worker-436: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:10:35,281 [Worker-436: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphewebapp/src/test/resources
+2020-09-28 18:10:42,080 [Worker-437: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:10:42,082 [Worker-437: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:10:42,085 [Worker-437: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:10:42,088 [Worker-437: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:10:42,088 [Worker-437: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphewebapp/src/test/resources
+2020-09-28 18:21:47,680 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-28 18:22:15,009 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:22:15,021 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:22:15,059 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:22:15,066 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:22:15,066 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphewebapp/src/test/resources
+2020-09-28 18:28:05,442 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-28 18:28:07,693 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javadev.darphewebapp:darphewebapp:0.0.1-SNAPSHOT @ /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphewebapp/pom.xml.
+2020-09-28 18:28:09,416 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /darphewebapp/src/main/java
+2020-09-28 18:28:09,417 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /darphewebapp/src/main/resources
+2020-09-28 18:28:09,418 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /darphewebapp/src/main/resources
+2020-09-28 18:28:09,420 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /darphewebapp/src/test/java
+2020-09-28 18:28:10,069 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-09-28 18:28:11,806 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:28:11,808 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:28:11,866 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:28:11,944 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:28:11,945 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphewebapp/src/test/resources
+2020-09-28 18:29:57,991 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javadev.darphewebapp:darphewebapp:0.0.1-SNAPSHOT @ /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/pom.xml.
+2020-09-28 18:29:58,736 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:29:58,737 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:29:58,740 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:29:58,822 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:29:58,822 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/test/resources
+2020-09-28 18:30:00,246 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:30:00,257 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:30:00,261 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:30:00,283 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:30:00,286 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/test/resources
+2020-09-28 18:30:33,123 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-28 18:30:33,484 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javadev.darphewebapp:darphewebapp:0.0.1-SNAPSHOT @ /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/pom.xml.
+2020-09-28 18:30:33,854 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /darphejeanwebapp/src/main/java
+2020-09-28 18:30:33,855 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /darphejeanwebapp/src/main/resources
+2020-09-28 18:30:33,856 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /darphejeanwebapp/src/main/resources
+2020-09-28 18:30:33,857 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /darphejeanwebapp/src/test/java
+2020-09-28 18:30:34,200 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-28 18:30:35,053 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:30:35,054 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:30:35,055 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:30:35,086 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:30:35,086 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/test/resources
+2020-09-28 18:31:59,321 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javadev.darphejeanwebapp:darphejeanwebapp:0.0.1-SNAPSHOT @ /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/pom.xml.
+2020-09-28 18:31:59,892 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:31:59,893 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-28 18:31:59,893 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-28 18:31:59,897 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:31:59,897 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/test/resources
+2020-09-28 18:33:20,431 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:33:20,434 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:33:20,437 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:33:20,442 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:33:20,442 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/test/resources
+2020-09-28 18:33:46,897 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-28 18:33:47,229 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javadev.darphejeanwebapp:darphejeanwebapp:0.0.1-SNAPSHOT @ /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/pom.xml.
+2020-09-28 18:33:47,721 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /darphejeanwebapp/src/main/java
+2020-09-28 18:33:47,722 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /darphejeanwebapp/src/main/resources
+2020-09-28 18:33:47,723 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /darphejeanwebapp/src/main/resources
+2020-09-28 18:33:47,724 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /darphejeanwebapp/src/test/java
+2020-09-28 18:33:48,005 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-28 18:33:48,769 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:33:48,770 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:33:48,781 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2020-09-28 18:33:48,812 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:33:48,812 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/test/resources
+2020-09-28 18:36:08,254 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:36:08,256 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 18:36:08,270 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2020-09-28 18:36:08,280 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:36:08,280 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/workspace-sts-3.9.6.RELEASE/SWE/eregistrar/src/test/resources
+2020-09-28 18:41:23,211 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:41:23,212 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/main/resources
+2020-09-28 18:41:23,212 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/main/resources
+2020-09-28 18:41:23,215 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 18:41:23,215 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/darphehyppolitejean/eclipse-workspace-copy/darphehyppolitejean/darphejeanwebapp/src/test/resources
