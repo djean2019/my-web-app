@@ -39,7 +39,7 @@ public class CommentController {
 		List<Comment> comments = cRepository.findAll();
 		
 		theModel.addAttribute("comments",comments); 
-		    
+		 
 		return "darphe/comments";
 	}   
 	 
@@ -64,7 +64,7 @@ public class CommentController {
 		Comment theComment = new Comment();
 		
 		theModel.addAttribute("comment", theComment);
-		
+		 
 		return "darphe/form-comment";
 	}
 	
