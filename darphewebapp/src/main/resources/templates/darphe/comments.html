@@ -20,8 +20,12 @@
 	<div th:replace="fragments/header :: header"></div>
 	
 	<div class="container" layout:fragment="content">
-		<h1 class="hea">Thank you for you comments...</h1>
-	
+		<h1 class="hea">Thank you for you comments. :)</h1>
+		<hr>
+		
+		<ul>
+			<li th:each="comment: ${comments}" th:text = "${comment.userName} + ' says:  ' + ${comment.message}" > </li> 
+		</ul>
 	</div>
 	
 	<div th:replace="fragments/footer :: footer"></div>

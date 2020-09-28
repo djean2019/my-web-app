@@ -24,7 +24,7 @@
 		<hr>
 	
 	<!-- Add a button -->
-	<a th:href="@{/darphe/create-like}"
+	<a th:href="@{/darphe/likeForm}"
 		class="btn btn-primary btn-sm mb-3">
 		Give a like
 	</a>
@@ -32,6 +32,7 @@
 	<table class="table table-bordered table-striped">
 		<thead class="thead-dark">
 			<tr>
+				<th scope="col">#</th>
 				<th>Name</th>
 				<th>Support</th>
 				<th>Description</th>
@@ -39,7 +40,8 @@
 		</thead>
 		
 		<tbody>
-			<tr th:each="theLike : ${likes}">
+			<tr th:each="theLike, iter : ${likes}">
+				<th scope="row" th:text="${iter.count}"></th>
 				<td th:text="${theLike.userName}" />
 				<td th:text="${theLike.status}" />
 				<td th:text="${theLike.description}" />
